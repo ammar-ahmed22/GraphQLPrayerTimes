@@ -1,0 +1,132 @@
+{
+  "data": {
+    "range": [
+      {
+        "timings": {
+          "Fajr": {
+            "readable": {
+              "default": "7:24 AM"
+            }
+          }
+        },
+        "date": {
+          "hijri": {
+            "readable": "Sunday, Jumada II 8, 1444"
+          },
+          "gregorian": {
+            "readable": "Sunday, January 1st, 2023"
+          }
+        },
+        "params": {
+          "lat": 43.64869,
+          "lng": -79.38544
+        }
+      },
+      {
+        "timings": {
+          "Fajr": {
+            "readable": {
+              "default": "7:24 AM"
+            }
+          }
+        },
+        "date": {
+          "hijri": {
+            "readable": "Monday, Jumada II 9, 1444"
+          },
+          "gregorian": {
+            "readable": "Monday, January 2nd, 2023"
+          }
+        },
+        "params": {
+          "lat": 43.64869,
+          "lng": -79.38544
+        }
+      },
+      {
+        "timings": {
+          "Fajr": {
+            "readable": {
+              "default": "7:24 AM"
+            }
+          }
+        },
+        "date": {
+          "hijri": {
+            "readable": "Tuesday, Jumada II 10, 1444"
+          },
+          "gregorian": {
+            "readable": "Tuesday, January 3rd, 2023"
+          }
+        },
+        "params": {
+          "lat": 43.64869,
+          "lng": -79.38544
+        }
+      },
+      {
+        "timings": {
+          "Fajr": {
+            "readable": {
+              "default": "7:25 AM"
+            }
+          }
+        },
+        "date": {
+          "hijri": {
+            "readable": "Wednesday, Jumada II 11, 1444"
+          },
+          "gregorian": {
+            "readable": "Wednesday, January 4th, 2023"
+          }
+        },
+        "params": {
+          "lat": 43.64869,
+          "lng": -79.38544
+        }
+      },
+      {
+        "timings": {
+          "Fajr": {
+            "readable": {
+              "default": "7:25 AM"
+            }
+          }
+        },
+        "date": {
+          "hijri": {
+            "readable": "Thursday, Jumada II 12, 1444"
+          },
+          "gregorian": {
+            "readable": "Thursday, January 5th, 2023"
+          }
+        },
+        "params": {
+          "lat": 43.64869,
+          "lng": -79.38544
+        }
+      },
+      {
+        "timings": {
+          "Fajr": {
+            "readable": {
+              "default": "7:25 AM"
+            }
+          }
+        },
+        "date": {
+          "hijri": {
+            "readable": "Friday, Jumada II 13, 1444"
+          },
+          "gregorian": {
+            "readable": "Friday, January 6th, 2023"
+          }
+        },
+        "params": {
+          "lat": 43.64869,
+          "lng": -79.38544
+        }
+      }
+    ]
+  }
+}

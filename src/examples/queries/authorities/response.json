@@ -1,0 +1,41 @@
+{
+  "data": {
+    "authorities": [
+      {
+        "value": "MWL",
+        "fullName": "Muslim World League",
+        "explanation": "18 degree Fajr angle, 17 degree Isha angle"
+      },
+      {
+        "value": "ISNA",
+        "fullName": "Islamic Society of North America",
+        "explanation": "15 degree Fajr angle, 15 degree Isha angle"
+      },
+      {
+        "value": "EGAS",
+        "fullName": "Egyptian General Authority of Survey",
+        "explanation": "19.5 degree Fajr angle, 17.5 degree Isha angle"
+      },
+      {
+        "value": "UQUM",
+        "fullName": "Umm al-Qura University, Makkah",
+        "explanation": "18.5 degree Fajr angle, Isha is 90 min after maghrib during Ramadan, 120 min otherwise"
+      },
+      {
+        "value": "UISK",
+        "fullName": "University of Islamic Sciences, Karachi",
+        "explanation": "18 degree Fajr angle, 18 degree Isha angle"
+      },
+      {
+        "value": "IGUT",
+        "fullName": "Institute of Geophysics, University of Tehran",
+        "explanation": "17.7 degree Fajr angle, 14 degree Isha angle (not explicitly defined)"
+      },
+      {
+        "value": "SIA",
+        "fullName": "Shia Ithna Ashari, Leva Research Institute, Qum",
+        "explanation": "16 degree Fajr angle, 14 degree Fajr angle. Maghrib also follows later time due to Shia madhab"
+      }
+    ]
+  }
+}

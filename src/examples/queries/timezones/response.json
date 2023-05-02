@@ -1,0 +1,29 @@
+{
+  "data": {
+    "timezones": [
+      "Africa/Abidjan",
+      "Africa/Nairobi",
+      "Africa/Algiers",
+      "Africa/Lagos",
+      "Africa/Bissau",
+      "Africa/Maputo",
+      "Africa/Cairo",
+      "Africa/Casablanca",
+      "Africa/Ceuta",
+      "Africa/El_Aaiun",
+      "Africa/Johannesburg",
+      "Africa/Juba",
+      "Africa/Khartoum",
+      "Africa/Monrovia",
+      "Africa/Ndjamena",
+      "Africa/Sao_Tome",
+      "Africa/Tripoli",
+      "Africa/Tunis",
+      "Africa/Windhoek",
+      "America/Adak",
+      "America/Anchorage",
+      "America/Puerto_Rico",
+      "America/Araguaina"
+    ]
+  }
+}
